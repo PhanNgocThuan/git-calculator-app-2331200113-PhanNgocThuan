@@ -5,4 +5,4 @@ contextBridge.exposeInIsolatedWorld('calc', {
     compute,
     formatNumber,
     symbolForOp
-});
+});  
